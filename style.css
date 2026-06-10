@@ -9,7 +9,7 @@ height: 200px;
 
 .cartao-imagem {
 width: 100%;
-}
+}<a href="#" class="cabecalho-link">Início</a>
 .cabecalho { 
   display: flex; 
   justify-content: space-between; 
@@ -23,4 +23,11 @@ body {
 } 
 main { 
   flex: 1; 
+} 
+.cabecalho { 
+  background-color: #7e3e1c; 
+  padding: 15px 25px; 
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
 } 
